@@ -1,5 +1,5 @@
-# NextMod - Change Log
-## ⚠ THIS IS STILL A WIP - IT'S NOT 100% READY! ⚠
+![](https://i.imgur.com/HnT19l1.png)
+
 
 ### ⚠ For Server Owners:
 > NextMod is designed to work with the [Competitive Rework Platform](https://github.com/SirPlease/L4D2-Competitive-Rework) if your server is not set up correctly you may have to alter files in order for the config to work properly.
@@ -9,19 +9,36 @@
  
 NextMod is a competitive config based upon the community favourite ZoneMod, but it also brings back some of our old favourite features from other mods such as the Witch, and jump rocks, as well as some new features!
 
+#### Main Features / Reasoning Behind Them
+---
+**Jump Rocks** 
+Jump Rocks were added due to community requests.
+
+**The Witch**
+The Witch was added due to community requests and to add a bit of dynamic to the game.
+
+**Witch Voting**
+ Witch Voting was added due to the mixed feelings on Witches. Not everybody agrees with having them in the game, so adding an option to disable it only seems fair.
+
+**Sound Removing**
+Sound Removing was added to save our ears and to remove the unfair advantage some players get when they use the `snd_restart` command, while others do not.
+
+**Health Bonus System**
+The new health bonus system was added due to the amount of complaints I've heard about damage bonus. Bonus will now be determined by Perma-Health, Temp-Health, Pills, and whether or not Tank/Witch have been killed. For further detail, please read [here](https://github.com/LuckyServ/sourcemod-plugins/blob/master/source/l4d2_health_temp_bonus.sp)
+
+---
 ## Version 0.1.1 Changes
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
 * Spit Damage set to **3 per tick**.
 * Spit god-frames set to **6**.
-* Hunter scratch damage set to **7**.
 * Smoker choke dmage interval changed from **2** to **1.8**
 * Added Tank jump-rocks.
 * Added the Witch.
 * Added the ability for Jockeys to be skeeted.
 #### Weapons
 * Silenced Uzi reload speed changed from **1.85** to **1.9**.
-* Unsilenced Uzi damage changed from **22** to **18**.
+* Unsilenced Uzi damage changed from **22** to **19**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.28**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
 * Removed all Mini-guns/Turrets.
