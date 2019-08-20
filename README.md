@@ -52,8 +52,6 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Added option to enable/diable the Witch via voting.
 * New Bonus System. (Created by: [LuckyLock](https://github.com/LuckyServ))
 * Tank Rocks are now lag-compensated. (Created by: [LuckyLock](https://github.com/LuckyServ))
-* Removed Alarm Sounds.
-* Removed Horde Event Sounds.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
