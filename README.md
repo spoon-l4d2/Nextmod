@@ -1,8 +1,10 @@
-![](https://i.imgur.com/HnT19l1.png)
-
+![NextMod](https://i.imgur.com/HnT19l1.png)
+###### None of these changes are final. This config is still being actively worked on.
 
 ### ⚠ For Server Owners:
 > NextMod is designed to work with the [Competitive Rework Platform](https://github.com/SirPlease/L4D2-Competitive-Rework) if your server is not set up correctly you may have to alter files in order for the config to work properly.
+> 
+> Please check to see that all plugins in **cfg/sharedplugins.cfg** and **cfg/generalfixes.cfg** are loaded either in those files, or in NextMod's **shared_plugins.cfg** file. If you don't have the plugins, they can be found [here](https://github.com/SirPlease/L4D2-Competitive-Rework).
 
 ### ℹ About NextMod
 > NextMod is heavily influenced by community feedback, if you have a suggestion don't feel afraid to get at [me](https://steamcommunity.com/id/lonesome-spoon/).
@@ -26,27 +28,30 @@ Sound Removing was added to save our ears and to remove the unfair advantage som
 **Health Bonus System**
 The new health bonus system was added due to the amount of complaints I've heard about damage bonus. Bonus will now be determined by Perma-Health, Temp-Health, Pills, and whether or not Tank/Witch have been killed. For further detail, please read [here](https://github.com/LuckyServ/sourcemod-plugins/blob/master/source/l4d2_health_temp_bonus.sp)
 
+**Fixed Spawn Rotations**
+Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
+
 ---
-## Version 0.1.1 Changes
+## Version 1.0.2 Changes
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
 * Spit Damage set to **3 per tick**.
 * Spit god-frames set to **6**.
-* Smoker choke dmage interval changed from **2** to **1.8**
 * Added Tank jump-rocks.
 * Added the Witch.
-* Added the ability for Jockeys to be skeeted.
 #### Weapons
 * Silenced Uzi reload speed changed from **1.85** to **1.9**.
 * Unsilenced Uzi damage changed from **22** to **19**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.28**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
 * Removed all Mini-guns/Turrets.
+* Limited Melee's to **3**
+* Only blunt melees will spawn outside saferoom.
+    * Baseball Bats, Cricket Bats, Guitars, and Frying Pans.
+* One Fireaxe will spawn in saferoom.
 #### General/Gameplay
+* Fixed SI Spawn Rotations. (Created by: [Sir](https://github.com/SirPlease/))
 * Added option to enable/diable the Witch via voting.
-* Removed outside of saferoom melee spawns.
-* Added Saferoom Melee Weapon Spawning.
-    * One Frying Pan, and one Fire Axe.
 * New Bonus System. (Created by: [LuckyLock](https://github.com/LuckyServ))
 * Tank Rocks are now lag-compensated. (Created by: [LuckyLock](https://github.com/LuckyServ))
 * Removed Alarm Sounds.
@@ -54,8 +59,10 @@ The new health bonus system was added due to the amount of complaints I've heard
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
-* You now get **75** extra bonus for killing the Tank.
-* You now get **25** extra bonus for killing the Witch.
+* You now get **50** extra bonus for killing the Tank.
+* You now get **20** extra bonus for killing the Witch.
+#### Small Fixes
+* Ready Up footers will no longer stack (such as boss percents when chagned)
 ### Map Changes
 ---
 #### Dead Center
@@ -71,6 +78,10 @@ The new health bonus system was added due to the amount of complaints I've heard
 ##### Coaster (Map 3)
 * Removed Coaster Sounds.
 ---
+#### Hard Rain
+##### Mill Escape (Map 3)
+* Changed Map distance from **600** to **500**.
+---
 #### The Parish
 ##### Park (Map 2)
 * Added a small bush on the left side of the park on a tree.
@@ -85,6 +96,13 @@ The new health bonus system was added due to the amount of complaints I've heard
 #### The Passing
 ##### Bedlam (Map 2)
 * Added props to allow infected to climb onto a small bridge before the final tunnel to the left.
+* Changed Map distance from **800** to **700**.
+---
+#### The Sacrifice
+##### Docks (Map 1)
+* Changed Map distance from **700** to **500**.
+##### Barge (Map 2)
+* Changed Map distance from **700** to **500**.
 ---
 #### Dead Air
 ##### Runway (Finale)

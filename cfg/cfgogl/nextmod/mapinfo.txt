@@ -169,7 +169,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "300.000000"
-		"max_distance"      "600"
+		"max_distance"      "500"
 		"tank_ban_flow_min" "20"
 		"tank_ban_flow_max" "35"
 	}
@@ -262,7 +262,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "50.000000"
-		"max_distance"      "800"
+		"max_distance"      "600"
 		"horde_limit"       "150"
 	}
 	"c6m3_port"
@@ -285,7 +285,7 @@
 		"start_dist"        "75.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "50.000000"
-		"max_distance"      "700"
+		"max_distance"      "500"
 	}
 	"c7m2_barge"
 	{
@@ -294,7 +294,7 @@
 		"start_dist"        "75.000000"
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "50.000000"
-		"max_distance"      "700"
+		"max_distance"      "500"
 	}
 	"c7m3_port"
 	{
