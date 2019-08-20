@@ -2,9 +2,7 @@
 ###### None of these changes are final. This config is still being actively worked on.
 
 ### ⚠ For Server Owners:
-> NextMod is designed to work with the [Competitive Rework Platform](https://github.com/SirPlease/L4D2-Competitive-Rework) if your server is not set up correctly you may have to alter files in order for the config to work properly.
-> 
-> Please check to see that all plugins in **cfg/sharedplugins.cfg** and **cfg/generalfixes.cfg** are loaded either in those files, or in NextMod's **shared_plugins.cfg** file. If you don't have the plugins, they can be found [here](https://github.com/SirPlease/L4D2-Competitive-Rework).
+> NextMod is designed to work with the [Competitive Rework Platform](https://github.com/SirPlease/L4D2-Competitive-Rework) if your server is not set up correctly you may have to alter files in order for the config to work properly!
 
 ### ℹ About NextMod
 > NextMod is heavily influenced by community feedback, if you have a suggestion don't feel afraid to get at [me](https://steamcommunity.com/id/lonesome-spoon/).
@@ -32,7 +30,7 @@ The new health bonus system was added due to the amount of complaints I've heard
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
 
 ---
-## Version 1.0.2 Changes
+## Version 1.0.1 Changes
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
 * Spit Damage set to **3 per tick**.
