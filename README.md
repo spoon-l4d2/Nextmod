@@ -12,7 +12,7 @@ NextMod is a competitive config based upon the community favourite ZoneMod, but 
 #### Main Features / Reasoning Behind Them
 ---
 **Jump Rocks** 
-Jump Rocks were added due to community requests.
+Jump Rocks were added due to community requests. Tank Jump Rocks can only be done every 20 seconds. So once every 2 rocks or so.
 
 **The Witch**
 The Witch was added due to community requests and to add a bit of dynamic to the game.
@@ -35,7 +35,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### Infected
 * Spit Damage set to **3 per tick**.
 * Spit god-frames set to **6**.
-* Added Tank jump-rocks.
+* Added Tank Jump Rocks.
+* Added a 20 second cooldown on Tank Jump Rocks.
 * Added the Witch.
 #### Weapons
 * Silenced Uzi reload speed changed from **1.85** to **1.9**.
