@@ -33,14 +33,18 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ## Version 1.0.1 Changes
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
-* Spit Damage set to **3 per tick**.
+* Infected spawn times set to **15 seconds**
+* Spit Damage changed from alternating between **2 - 3** to static **3**.
 * Spit god-frames set to **6**.
+* Hunter claw changed from **6** to **4**.
+* Enabled Hunter M2's on **standing** hunters.
 * Added Tank Jump Rocks.
-* Added a 20 second cooldown on Tank Jump Rocks.
+* Added a **20 second** cooldown on Tank Jump Rocks.
 * Added the Witch.
 #### Weapons
 * Silenced Uzi reload speed changed from **1.85** to **1.9**.
-* Unsilenced Uzi damage changed from **22** to **19**.
+* Silenced Uzi max move spread changed from **2.15** to **2.05**.
+* Unsilenced Uzi damage changed from **22** to **20**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.28**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
 * Removed all Mini-guns/Turrets.
