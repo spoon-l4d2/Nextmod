@@ -24,7 +24,7 @@ The Witch was added due to community requests and to add a bit of dynamic to the
 Sound Removing was added to save our ears and to remove the unfair advantage some players get when they use the `snd_restart` command, while others do not.
 
 **Health Bonus System**
-The new health bonus system was added due to the amount of complaints I've heard about damage bonus. Bonus will now be determined by Perma-Health, Temp-Health, Pills, and whether or not Tank/Witch have been killed. For further detail, please read [here](https://github.com/LuckyServ/sourcemod-plugins/blob/master/source/l4d2_health_temp_bonus.sp)
+The new health bonus system was added due to the amount of complaints I've heard about damage bonus. Bonus will now be determined by Perma-Health, Temp-Health, Pills, and whether or not Tank/Witch have been killed. For further detail, please read [here](https://camo.githubusercontent.com/d86c7163fdf887d943947ba2accf7e74c32632e7/68747470733a2f2f692e696d6775722e636f6d2f63517471747a312e706e67) or [here](https://github.com/LuckyServ/sourcemod-plugins/blob/master/source/l4d2_health_temp_bonus.sp)
 
 **Fixed Spawn Rotations**
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
@@ -47,6 +47,10 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Unsilenced Uzi damage changed from **22** to **20**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.28**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
+* Pumpshotgun damage changed from **15** to **14**.
+* Pumpshotgun pellets changed from **21** to **20**.
+* Chrome-Shotgun damage changed from **16** to **15**.
+* Chrome-Shotgun pellets changed from **17** to **15**.
 * Removed all Mini-guns/Turrets.
 * Limited Melee's to **3**
 * Only blunt melees will spawn outside saferoom.
