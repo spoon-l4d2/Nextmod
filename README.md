@@ -43,15 +43,16 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Added a **20 second** cooldown on Tank Jump Rocks.
 * Added the Witch.
 #### Weapons
-* Silenced Uzi reload speed changed from **1.85** to **1.9**.
-* Silenced Uzi max move spread changed from **2.15** to **2.05**.
-* Unsilenced Uzi damage changed from **22** to **20**.
-* Unsilenced Uzi spread per-shot changed from **0.26** to **0.28**.
+> Weapons are still under heavy development, if you think something is too OP let me know!
+* Silenced Uzi reload speed changed from **1.85** to **2.1**.
+* Silenced Uzi spread per-shot from **0.32** to **0.30**.
+* Unsilenced Uzi reload speed changed from **1.74** to **1.9**.
+* Unsilenced Uzi damage changed from **22** to **19**.
+* Unsilenced Uzi spread per-shot changed from **0.26** to **0.29**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
 * Pumpshotgun damage changed from **15** to **14**.
 * Pumpshotgun pellets changed from **21** to **20**.
 * Chrome-Shotgun damage changed from **16** to **15**.
-* Chrome-Shotgun pellets changed from **17** to **15**.
 * Removed all Mini-guns/Turrets.
 * Limited Melee's to **3**
 * Only blunt melees will spawn outside saferoom.
@@ -70,6 +71,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
 ### Map Changes
+> Maps are the same as ZoneMod 1.9.4 besides the mentioned changes.
 ---
 #### Dead Center
 ##### Hotel (Map 1)
@@ -93,15 +95,13 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Added a small bush on the left side of the park on a tree.
 * Added a large bush near the 'tank chip fence' in the park.
 * Blocked the 'tank chip fence' in the park from being shot through.
----
-#### Swamp Fever
-##### Swamp (Map 2)
-* Added a large tree by the dock before the plane.
-* Added a medium tree before the plane, near the shack.
+##### Cemetery (Map 3)
+* You can still do spit damage at the sewer drop. :D
 ---
 #### The Passing
 ##### Bedlam (Map 2)
 * Added props to allow infected to climb onto a small bridge before the final tunnel to the left.
+* Blocked Tank Spawn past **70%**.
 * Changed Map distance from **800** to **700**.
 ---
 #### The Sacrifice
