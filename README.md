@@ -46,8 +46,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 > Weapons are still under heavy development, if you think something is too OP let me know!
 * Silenced Uzi reload speed changed from **1.85** to **2.1**.
 * Silenced Uzi spread per-shot from **0.32** to **0.30**.
-* Unsilenced Uzi reload speed changed from **1.74** to **1.9**.
-* Unsilenced Uzi damage changed from **22** to **19**.
+* Unsilenced Uzi reload speed changed from **1.74** to **1.75**.
+* Unsilenced Uzi damage changed from **22** to **20**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.29**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
 * Pumpshotgun damage changed from **15** to **14**.
