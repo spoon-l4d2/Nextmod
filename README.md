@@ -38,7 +38,6 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
 * Enabled Hunter M2's on **standing** hunters.
-* Hunters will now make noise when they spawn.
 * Added Tank Jump Rocks.
 * Added a **20 second** cooldown on Tank Jump Rocks.
 * Added the Witch.
@@ -66,7 +65,6 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
-* You now get **50** extra bonus for killing the Tank. (To discourage rushing past it)
 * You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
