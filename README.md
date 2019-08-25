@@ -65,8 +65,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
-* You now get **50** extra bonus for killing the Tank.
-* You now get **20** extra bonus for killing the Witch.
+* You now get **50** extra bonus for killing the Tank. (To discourage rushing past it)
+* You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
 ### Map Changes
@@ -97,7 +97,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### Swamp Fever
 ##### Swamp (Map 2)
 * Added a large tree by the dock before the plane.
-* Added a medium tree before the plan near the shack.
+* Added a medium tree before the plane, near the shack.
 ---
 #### The Passing
 ##### Bedlam (Map 2)
