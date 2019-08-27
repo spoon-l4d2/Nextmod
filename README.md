@@ -37,10 +37,9 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Spit Damage changed from alternating between **2 - 3** to static **3**.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
-* Enabled Hunter M2's on **standing** hunters.
+* Enabled Hunter M2's on **standing** Hunters.
 * Added Tank Jump Rocks.
 * Added a **20 second** cooldown on Tank Jump Rocks.
-* Added the Witch.
 #### Weapons
 > Weapons are still under heavy development, if you think something is too OP let me know!
 * Silenced Uzi reload speed changed from **1.85** to **2.1**.
@@ -65,6 +64,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
+* Added the Witch.
 * You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
@@ -100,7 +100,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ##### Bedlam (Map 2)
 * Added props to allow infected to climb onto a small bridge before the final tunnel to the left.
 * Blocked Tank Spawn past **70%**.
-* Changed Map distance from **800** to **700**.
+* Changed Map distance from **800** to **500**.
 ---
 #### The Sacrifice
 ##### Docks (Map 1)
