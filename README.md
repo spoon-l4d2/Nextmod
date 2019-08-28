@@ -33,7 +33,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ## Version 1.0.1 Changes
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
-* Infected spawn times set to **15 seconds**
+* Infected spawn times set to **15 seconds**.
+* Max common changed from **30** to **25**.
 * Spit Damage changed from alternating between **2 - 3** to static **3**.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
@@ -48,9 +49,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Unsilenced Uzi damage changed from **22** to **20**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.29**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
-* Pumpshotgun damage changed from **15** to **14**.
 * Pumpshotgun pellets changed from **21** to **20**.
-* Chrome-Shotgun damage changed from **16** to **15**.
+* Chrome-Shotgun pellets **17** to **16**.
 * Removed all Mini-guns/Turrets.
 * Limited Melee's to **3**
 * Only blunt melees will spawn outside saferoom.
