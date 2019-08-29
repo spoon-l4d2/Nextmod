@@ -69,6 +69,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
+* Removed throwables from spawning on some custom maps.
 ### Map Changes
 > Maps are the same as ZoneMod 1.9.4 besides the mentioned changes.
 ---
@@ -102,6 +103,9 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ##### Bedlam (Map 2)
 * Blocked Tank Spawn past **70%**.
 * Changed Map distance from **800** to **500**.
+* Fixed those wanky stairs.
+* Added some props + a hittable to area after the building drop (around **37%**)
+* Added a box stack to make climbing onto the RV easier for tank.
 ---
 #### The Sacrifice
 ##### Docks (Map 1)
