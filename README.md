@@ -70,6 +70,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### Small Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
 * Removed throwables from spawning on some custom maps.
+* Fixed issue where tank hittables weren't incapping god-framed survivors.
 ### Map Changes
 > Maps are the same as ZoneMod 1.9.4 besides the mentioned changes.
 ---
