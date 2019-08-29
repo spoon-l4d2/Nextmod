@@ -34,7 +34,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 > Release Version Wowee! Changes are compared to ZoneMod 1.9.3
 #### Infected
 * Infected spawn times set to **15 seconds**.
-* Max common changed from **30** to **25**.
+* Max common changed from **30** to **28**.
 * Spit Damage changed from alternating between **2 - 3** to static **3**.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
@@ -49,6 +49,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Unsilenced Uzi damage changed from **22** to **20**.
 * Unsilenced Uzi spread per-shot changed from **0.26** to **0.29**.
 * Unsilenced Uzi max move-spread from **1.85** to **1.95**.
+* Increased SMG Ammo from **650** to **750**.
 * Pumpshotgun pellets changed from **21** to **20**.
 * Chrome-Shotgun pellets **17** to **16**.
 * Removed all Mini-guns/Turrets.
@@ -91,6 +92,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### The Parish
 ##### Park (Map 2)
 * Added a small bush on the left side of the park on a tree.
+* Added a prop to make climbing onto the tree easier for infected.
 * Added a large bush near the 'tank chip fence' in the park.
 * Blocked the 'tank chip fence' in the park from being shot through.
 ##### Cemetery (Map 3)
@@ -98,7 +100,6 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ---
 #### The Passing
 ##### Bedlam (Map 2)
-* Added props to allow infected to climb onto a small bridge before the final tunnel to the left.
 * Blocked Tank Spawn past **70%**.
 * Changed Map distance from **800** to **500**.
 ---
