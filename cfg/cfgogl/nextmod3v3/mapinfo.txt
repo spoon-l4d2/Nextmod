@@ -23,7 +23,7 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "250.000000"
 		"end_dist"          "200.000000"
-		"horde_limit"       "120"
+		"horde_limit"       "90"
 		"witch_flow_min"    "10"
 		"witch_flow_max"    "99"
 	}
@@ -37,7 +37,7 @@
 		"tank_ban_flow_min" "64"
 		"tank_ban_flow_max" "68"
 		"max_distance"      "600"
-		"horde_limit"       "180"
+		"horde_limit"       "120"
 		"witch_flow_min"    "10"
 		"witch_flow_max"    "99"
 	}
@@ -73,7 +73,7 @@
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "150.000000"
 		"max_distance"      "500"
-		"horde_limit"       "120"
+		"horde_limit"       "90"
 		"witch_flow_min"    "10"
         "witch_flow_max"    "80"
 	}
@@ -85,7 +85,7 @@
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "150.000000"
 		"max_distance"      "600"
-		"horde_limit"       "240"
+		"horde_limit"       "180"
 		"tank_ban_flow_min" "56"
 		"tank_ban_flow_max" "100"
 		"witch_flow_min"    "10"
@@ -99,7 +99,7 @@
 		"start_extra_dist"  "150.000000"
 		"end_dist"          "250.000000"
 		"max_distance"      "500"
-		"horde_limit"       "150"
+		"horde_limit"       "100"
 		"witch_flow_min"    "10"
         "witch_flow_max"    "80"
 	}
@@ -245,7 +245,7 @@
 		"end_dist"          "250.000000"
 		"tank_ban_flow_min" "49"
 		"tank_ban_flow_max" "54"
-		"horde_limit"       "240"
+		"horde_limit"       "180"
 		"witch_flow_min"    "20"
 		"witch_flow_max"    "99"
 	}
@@ -301,7 +301,7 @@
 		"start_extra_dist"  "0.000000"
 		"end_dist"          "50.000000"
 		"max_distance"      "500"
-		"horde_limit"       "150"
+		"horde_limit"       "100"
 		"tank_ban_flow_min" "70"
 		"tank_ban_flow_max" "100"
 	}
@@ -476,7 +476,7 @@
 		"start_extra_dist"  "307.155029"
 		"end_point"         "1309.379883 -5479.276367 -26.821182"
 		"end_dist"          "324.451355"
-		"horde_limit"       "180"
+		"horde_limit"       "120"
 		"witch_flow_min"    "64"
 		"witch_flow_max"    "99"
 	}
@@ -706,7 +706,7 @@
 		"start_extra_dist"  "285.327118"
 		"end_point"         "-4824.578125 -7661.144043 566.031250"
 		"end_dist"          "393.489532"
-		"horde_limit"       "120"
+		"horde_limit"       "100"
 	}
 	"cdta_03warehouse"
 	{
@@ -1682,6 +1682,6 @@
 	{
 		"tank_ban_flow_min" "56"
 		"tank_ban_flow_max" "99"
-		"horde_limit"       "200"
+		"horde_limit"       "160"
 	}
 }
