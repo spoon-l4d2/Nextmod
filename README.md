@@ -30,8 +30,7 @@ The new health bonus system was added due to the amount of complaints I've heard
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
 
 ---
-## Version 1.0.1 Changes
-> Release Version Wowee! Changes are compared to ZoneMod 1.9.3
+## Version 1.0.2 Changes
 #### Infected
 * Infected spawn times set to **15 seconds**.
 * Max common changed from **30** to **28**.
@@ -87,9 +86,11 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ##### Coaster (Map 3)
 * Removed Coaster Sounds.
 ---
-#### Hard Rain
+##### Hard Rain
 ##### Mill Escape (Map 3)
 * Changed Map distance from **600** to **500**.
+##### Milltown Escape (Finale)
+* Removed the damn storm sounds.
 ---
 #### The Parish
 ##### Park (Map 2)
@@ -99,13 +100,14 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Blocked the 'tank chip fence' in the park from being shot through.
 ##### Cemetery (Map 3)
 * You can still do spit damage at the sewer drop. :D
+##### Quarter (Map 4)
+* Fixed an out of map glitch.
 ---
 #### The Passing
 ##### Bedlam (Map 2)
 * Blocked Tank Spawn past **70%**.
 * Changed Map distance from **800** to **500**.
 * Fixed those wanky stairs.
-* Added some props + a hittable to area after the building drop (around **37%**)
 * Added a box stack to make climbing onto the RV easier for tank.
 ---
 #### The Sacrifice
@@ -118,5 +120,9 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 ##### Runway (Finale)
 * Removed Plane + Crashing Plane SFX
 * Removed Crashing Plane Screen Shake
+---
+#### Blood Harvest
+##### Corn Field (Finale)
+* Added props for extra SI spawns.
 ---
 ###### Please Note: I probably missed a thing or two 😃
