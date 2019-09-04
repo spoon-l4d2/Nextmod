@@ -30,7 +30,7 @@ The new health bonus system was added due to the amount of complaints I've heard
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
 
 ---
-## Version 1.0.2 Changes
+## Version 1.0.3 Changes
 #### Infected
 * Infected spawn times set to **15 seconds**.
 * Max common changed from **30** to **28**.
