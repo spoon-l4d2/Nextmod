@@ -2,7 +2,7 @@
 ###### None of these changes are final. This config is still being actively worked on.
 
 ### ⚠ For Server Owners:
-> NextMod is designed to work with the [Competitive Rework Platform](https://github.com/LuckyServ/l4d2_luckylock_server_install_public/tree/master/cfg) if your server is not set up correctly you may have to alter files in order for the config to work properly!
+> NextMod is designed to work with the [Competitive Rework Platform](https://github.com/LuckyServ/l4d2_luckylock_server_install_public) if your server is not set up correctly you may have to alter files in order for the config to work properly!
 
 ### ℹ About NextMod
 > NextMod is heavily influenced by community feedback, if you have a suggestion don't feel afraid to get at [me](https://steamcommunity.com/id/lonesome-spoon/).
