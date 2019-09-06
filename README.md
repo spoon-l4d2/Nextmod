@@ -66,10 +66,10 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Tanks can now see hittable glows through objects/from far away.
 * Added the Witch.
 * You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
-#### Small Fixes
+#### Fixes
 * Ready Up footers will no longer stack (such as boss percents when chagned)
 * Removed throwables from spawning on some custom maps.
-* Fixed issue where tank hittables weren't incapping god-framed survivors.
+* Fixed event doors being breakable.
 ### Map Changes
 > Maps are the same as ZoneMod 1.9.4 besides the mentioned changes.
 ---
@@ -122,6 +122,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Crashing Plane Screen Shake
 ---
 #### Blood Harvest
+##### Traintunnel (Map 2)
+* Fixed the event door being breakable.
 ##### Corn Field (Finale)
 * Added props for extra SI spawns.
 ---
