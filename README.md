@@ -1,24 +1,22 @@
 ![NextMod](https://i.imgur.com/HnT19l1.png)
-###### None of these changes are final. This config is still being actively worked on.
 
 ### ⚠ For Server Owners:
-> NextMod is designed to work with the [Competitive Rework Platform](https://github.com/LuckyServ/l4d2_luckylock_server_install_public) if your server is not set up correctly you may have to alter files in order for the config to work properly!
+> NextMod is designed to work with [Sir's Competitive Rework Platform](https://github.com/SirPlease/L4D2-Competitive-Rework) if your server is not set up correctly you may have to alter files in order for the config to work properly!
 
 ### ℹ About NextMod
 > NextMod is heavily influenced by community feedback, if you have a suggestion don't feel afraid to get at [me](https://steamcommunity.com/id/lonesome-spoon/).
  
 NextMod is a competitive config based upon the community favourite ZoneMod, but it also brings back some of our old favourite features from other mods such as the Witch, and jump rocks, as well as some new features!
 
+This is the last version for a while. It is now at a stable spot and is ready to be played. Unless game breaking issues are found, new updates will be spread out.
+
+> What is NextMod Pug?
+
+NextMod Pug contains older, more unbalanced features, such as the Witch, Jumprocks, Quads, etc..
 #### Main Features / Reasoning Behind Them
 ---
-**Jump Rocks** 
-Jump Rocks were added due to community requests. Tank Jump Rocks can only be done every 20 seconds. So once every 2 rocks or so.
-
-**The Witch**
-The Witch was added due to community requests and to add a bit of dynamic to the game.
-
-**Witch Voting**
- Witch Voting was added due to the mixed feelings on Witches. Not everybody agrees with having them in the game, so adding an option to disable it only seems fair.
+**No Quads**
+Quads can be fun, but they aren't really fair in a competitive sense. Especially not on closed-in maps, and its even worse on high ping D: 
 
 **Sound Removing**
 Sound Removing was added to save our ears and to remove the unfair advantage some players get when they use the `snd_restart` command, while others do not.
@@ -30,7 +28,7 @@ The new health bonus system was added due to the amount of complaints I've heard
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
 
 ---
-## Version 1.0.3 Changes
+## Version 1.0.4 Changes
 #### Infected
 * Infected spawn times set to **15 seconds**.
 * Max common changed from **30** to **28**.
@@ -38,8 +36,10 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
 * Enabled Hunter M2's on **standing** Hunters.
-* Added Tank Jump Rocks.
 * Added a **20 second** cooldown on Tank Jump Rocks.
+* Hunters limited to **1**.
+* **1** M2 on a Hunter/Jockey will cause melee fatigue. 
+* Removed Tank Jumprocks.
 #### Weapons
 > Weapons are still under heavy development, if you think something is too OP let me know!
 * Silenced Uzi reload speed changed from **1.85** to **2.1**.
@@ -56,6 +56,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Only blunt melees will spawn outside saferoom.
     * Baseball Bats, Cricket Bats, Guitars, and Frying Pans.
 * One Fireaxe will spawn in saferoom.
+* Limited Uzis to **3**. (Meaning a maximum of 3 Uzi's - Silenced or Unsilenced)
+* Limited Shotguns to **3**. (Meaning a maximum of 3 Shotguns - Pump or Chrome)
 #### General/Gameplay
 * Fixed SI Spawn Rotations. (Created by: [Sir](https://github.com/SirPlease/))
 * Added option to enable/diable the Witch via voting.
@@ -64,12 +66,12 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
-* Added the Witch.
-* You now get **20** extra bonus for killing the Witch. (To discourage rushing past it)
+* Quads are removed.
+* Witch is removed.
 #### Fixes
-* Ready Up footers will no longer stack (such as boss percents when chagned)
 * Removed throwables from spawning on some custom maps.
 * Fixed event doors being breakable.
+* Long get-ups have been removed.
 ### Map Changes
 > Maps are the same as ZoneMod 1.9.4 besides the mentioned changes.
 ---
@@ -126,5 +128,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Fixed the event door being breakable.
 ##### Corn Field (Finale)
 * Added props for extra SI spawns.
+* Fixed an under the map exploit for SI.
+* Fixed multiple SI stuck spots.
 ---
-###### Please Note: I probably missed a thing or two 😃
+###### go next 😃
