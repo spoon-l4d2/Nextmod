@@ -36,7 +36,6 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Spit god-frames set to **6**.
 * Hunter claw changed from **6** to **4**.
 * Enabled Hunter M2's on **standing** Hunters.
-* Added a **20 second** cooldown on Tank Jump Rocks.
 * Hunters limited to **2**.
 * **1** M2 on a Hunter/Jockey will cause melee fatigue. 
 * Removed Tank Jumprocks.
