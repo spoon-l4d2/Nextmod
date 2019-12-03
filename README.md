@@ -12,23 +12,23 @@ This is the last version for a while. It is now at a stable spot and is ready to
 
 > What is NextMod Pug?
 
-NextMod Pug contains older, more unbalanced features, such as the Witch, Jumprocks, Quads, etc..
+NextMod Pug contains older, more unbalanced features, such as the Witch, Jumprocks, etc..
 #### Main Features / Reasoning Behind Them
 ---
-**No Quads**
-Quads can be fun, but they aren't really fair in a competitive sense. Especially not on closed-in maps, and its even worse on high ping D: 
+**Quads are back**
+:)
 
 **Sound Removing**
 Sound Removing was added to save our ears and to remove the unfair advantage some players get when they use the `snd_restart` command, while others do not.
 
 **Health Bonus System**
-The new health bonus system was added due to the amount of complaints I've heard about damage bonus. Bonus will now be determined by Perma-Health, Temp-Health, Pills, and whether or not Tank/Witch have been killed. For further detail, please read [here](https://camo.githubusercontent.com/d86c7163fdf887d943947ba2accf7e74c32632e7/68747470733a2f2f692e696d6775722e636f6d2f63517471747a312e706e67) or [here](https://github.com/LuckyServ/sourcemod-plugins/blob/master/source/l4d2_health_temp_bonus.sp)
+The new health bonus system was added due to the amount of complaints I've heard about the previous system.
 
 **Fixed Spawn Rotations**
 Spawn rotations are now handled by a plugin rather than the bestest engine ever. This means that infected spawn rotations will be more consistent, predictable and reliable, benefiting both teams!
 
 ---
-## Version 1.0.4 Changes
+## Version 1.0.5 Changes
 #### Infected
 * Infected spawn times set to **15 seconds**.
 * Max common changed from **30** to **28**.
@@ -37,7 +37,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Hunter claw changed from **6** to **4**.
 * Enabled Hunter M2's on **standing** Hunters.
 * Added a **20 second** cooldown on Tank Jump Rocks.
-* Hunters limited to **1**.
+* Hunters limited to **2**.
 * **1** M2 on a Hunter/Jockey will cause melee fatigue. 
 * Removed Tank Jumprocks.
 #### Weapons
@@ -66,7 +66,8 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
 * Tanks can now see hittable glows through objects/from far away.
-* Quads are removed.
+* Quads have been added.
+* There will now be only **2** sets of pills outside the saferoom.
 * Witch is removed.
 #### Fixes
 * Removed throwables from spawning on some custom maps.
@@ -87,6 +88,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Added a hittable car where survivors take the roof rock Tank.
 ##### Coaster (Map 3)
 * Removed Coaster Sounds.
+* Blocked getting onto the truck/roof before coaster, seen here: https://imgur.com/a/cyC81dR
 ---
 ##### Hard Rain
 ##### Mill Escape (Map 3)
@@ -102,6 +104,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 * Blocked the 'tank chip fence' in the park from being shot through.
 ##### Cemetery (Map 3)
 * You can still do spit damage at the sewer drop. :D
+* Blocked getting onto the roof seen here: https://imgur.com/a/MWN9pvL
 ##### Quarter (Map 4)
 * Fixed an out of map glitch.
 ---
