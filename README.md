@@ -61,7 +61,7 @@ Spawn rotations are now handled by a plugin rather than the bestest engine ever.
 #### General/Gameplay
 * Fixed SI Spawn Rotations. (Created by: [Sir](https://github.com/SirPlease/))
 * Added option to enable/diable the Witch via voting.
-* New Bonus System. (Created by: [LuckyLock](https://github.com/LuckyServ))
+* New Bonus System. (Created by: [Sir](https://github.com/SirPlease/))
 * Tank Rocks are now lag-compensated. (Created by: [LuckyLock](https://github.com/LuckyServ))
 * Removed Generator/Lift/Plane/Tractor/Fuel Truck/"Ambient" Explosion/Heartbeat Sounds.
 * It will now be announced when a teammate is black and white.
